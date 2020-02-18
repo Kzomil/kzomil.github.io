@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos
-permalink: /about/
+permalink: /À propos/
 ---
 
 ![badass](/images/badasscat.jpg)
