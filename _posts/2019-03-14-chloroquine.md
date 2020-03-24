@@ -4,7 +4,7 @@ title: Chloroquine
 date: 2020-03-24T21:13:20+01:00
 author: kzomil
 layout: post
-image: Cloroquine.jpg
+image: 2CF0470C-AD95-4C90-9065-031E6A990CBD.jpeg
 categories:
   - Comptoir
 tags:
